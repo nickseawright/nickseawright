@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**nickseawright/nickseawright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Supervisor transitioning into IT and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+## 🎓 Education
+B.S. Cloud & Network Engineering — Western Governors University (WGU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Studying
+- CompTIA A+
+- Networking fundamentals
+- Cloud infrastructure
+
+## 🔧 Hands-On Projects
+
+### AWS EC2 Nginx Web Server
+Deploying a live web server using AWS EC2, Linux, SSH, and Nginx.
+
+### Linux Homelab
+Ubuntu Linux homelab built with Hyper-V to practice Linux CLI, system administration, and Git workflows.
+
+## 💻 Technical Skills
+- Linux
+- AWS
+- Networking
+- Cloud Computing
+- IT Troubleshooting
+
+## 🎯 Career Direction
+My goal is to transition into IT infrastructure and cloud roles, building on my background in security operations and risk management.
+
+## 📍 Location
+Nashville, TN
+
+## 🔗 Connect With Me
+LinkedIn: https://linkedin.com/in/nickseawright
