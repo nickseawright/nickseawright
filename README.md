@@ -20,6 +20,10 @@ Deploying a live web server using AWS EC2, Linux, SSH, and Nginx.
 Ubuntu Linux homelab built with Hyper-V to practice Linux CLI, system administration, and Git workflows.
 ➡️ [View Project](https://github.com/nickseawright/linux-homelab)
 
+### Network Troubleshooting Lab
+Practiced core networking troubleshooting commands including ping, traceroute, nslookup, and ifconfig to diagnose connectivity and DNS resolution.
+➡️ [View Project](https://github.com/nickseawright/network-troubleshooting-basics)
+
 ## 💻 Technical Skills
 - Linux
 - AWS
