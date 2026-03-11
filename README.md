@@ -8,7 +8,7 @@ B.S. Cloud & Network Engineering — Western Governors University (WGU)
 ## 📚 Currently Studying
 - CompTIA A+
 - Networking fundamentals
-- Cloud infrastructure
+- Cloud infrastructure and System Administration 
 
 ## 🔧 Hands-On Projects
 
@@ -23,6 +23,9 @@ Ubuntu Linux homelab built with Hyper-V to practice Linux CLI, system administra
 ### Network Troubleshooting Lab
 Practiced core networking troubleshooting commands including ping, traceroute, nslookup, and ifconfig to diagnose connectivity and DNS resolution.
 ➡️ [View Project](https://github.com/nickseawright/network-troubleshooting-basics)
+
+### Active Directory Home Lab  
+Built a Windows Active Directory lab using Windows Server and a Windows 11 client VM in Hyper-V. Configured Active Directory Domain Services (AD DS), DNS, domain users, and joined a client machine to the domain. ➡️ [View Project](https://github.com/nickseawright/active-directory-home-lab)
 
 ## 💻 Technical Skills
 - Linux
