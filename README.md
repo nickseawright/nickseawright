@@ -25,7 +25,8 @@ Practiced core networking troubleshooting commands including ping, traceroute, n
 ➡️ [View Project](https://github.com/nickseawright/network-troubleshooting-basics)
 
 ### Active Directory Home Lab  
-Built a Windows Active Directory lab using Windows Server and a Windows 11 client VM in Hyper-V. Configured Active Directory Domain Services (AD DS), DNS, domain users, and joined a client machine to the domain. ➡️ [View Project](https://github.com/nickseawright/active-directory-home-lab)
+Built a Windows Active Directory lab using Windows Server and a Windows 11 client VM in Hyper-V. 
+Configured Active Directory Domain Services (AD DS), DNS, domain users, and joined a client machine to the domain. ➡️ [View Project](https://github.com/nickseawright/active-directory-home-lab)
 
 ## 💻 Technical Skills
 - Linux
