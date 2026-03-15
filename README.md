@@ -23,22 +23,22 @@ B.S. Cloud & Network Engineering — Western Governors University (WGU)
 
 ### AWS EC2 Nginx Web Server
 Deploying a live web server using AWS EC2, Linux, SSH, and Nginx.
-➡️ [View Project](https://github.com/nickseawright/aws-ec2-nginx-webserver)
+➡️ [Github Repository](https://github.com/nickseawright/aws-ec2-nginx-webserver)
 
 ### Linux Homelab
 Ubuntu Linux homelab built with Hyper-V to practice Linux CLI, system administration, and Git workflows.
-➡️ [View Project](https://github.com/nickseawright/linux-homelab)
+➡️ [Github Repository](https://github.com/nickseawright/linux-homelab)
 
 ### Network Troubleshooting Lab
 Practiced core networking troubleshooting commands including ping, traceroute, nslookup, and ifconfig to diagnose connectivity and DNS resolution.
-➡️ [View Project](https://github.com/nickseawright/network-troubleshooting-basics)
+➡️ [Github Repository](https://github.com/nickseawright/network-troubleshooting-basics)
 
 ### Active Directory Home Lab  
 Built a Windows Active Directory lab using Windows Server and a Windows 11 client VM in Hyper-V. 
-Configured Active Directory Domain Services (AD DS), DNS, domain users, and joined a client machine to the domain. ➡️ [View Project](https://github.com/nickseawright/active-directory-home-lab)
+Configured Active Directory Domain Services (AD DS), DNS, domain users, and joined a client machine to the domain. ➡️ [Github Repository](https://github.com/nickseawright/active-directory-home-lab)
 
 ### IT Support Ticket Simulation Lab
-Simulated service desk tickets documenting troubleshooting steps for issues such as DNS failures, account lockouts, and system performance problems. ➡️ [View Project](https://github.com/nickseawright/it-support-ticket-lab)
+Simulated service desk tickets documenting troubleshooting steps for issues such as DNS failures, account lockouts, and system performance problems. ➡️ [Github Repository](https://github.com/nickseawright/it-support-ticket-lab)
 
 ## 💻 Technical Skills
 - Linux
@@ -54,6 +54,13 @@ Tools: Git, GitHub, Hyper-V, SSH, Nginx, Command Line
 
 ## 🎯 Career Direction
 My goal is to move into an entry-level IT Support or Infrastructure role where I can continue developing hands-on experience with networking, system administration, and cloud technologies.
+
+## Current Goals
+
+- Pass CompTIA A+ Core 2
+- Continue building IT troubleshooting labs
+- Gain hands-on experience with Active Directory environments
+- Transition into an entry-level IT Support or Infrastructure role
 
 ## 📍 Location
 Nashville, TN
